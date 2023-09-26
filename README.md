@@ -1,6 +1,8 @@
-# Cactus
+# Cactus Plus
 
 A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal website.
+
+**This project is personal enhancement from [Cactus](https://github.com/probberechts/hexo-theme-cactus)**
 
 :cactus: [Demo](https://probberechts.github.io/hexo-theme-cactus/)
 

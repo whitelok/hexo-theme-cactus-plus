@@ -1,5 +1,5 @@
 {
-  "name": "hexo-theme-cactus",
+  "name": "hexo-theme-cactus-plus",
   "version": "3.0.0",
   "description": "A responsive, clean and simple theme for Hexo.",
   "main": "index.js",
@@ -10,19 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/probberechts/cactus-dark.git"
+    "url": "git+https://github.com/whitelok/hexo-theme-cactus-plus.git"
   },
   "keywords": [
     "Hexo",
     "Theme",
-    "Cactus"
+    "Cactus",
+    "Cactus Plus"
   ],
-  "author": "Pieter Robberechts",
+  "author": "whitelok",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/probberechts/cactus-dark/issues"
+    "url": "https://github.com/whitelok/hexo-theme-cactus-plus/issues"
   },
-  "homepage": "https://github.com/probberechts/cactus-dark#readme",
+  "homepage": "https://github.com/whitelok/hexo-theme-cactus-plus#readme",
   "type": "module",
   "devDependencies": {
     "del": "*",

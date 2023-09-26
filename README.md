@@ -4,9 +4,9 @@ A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal websi
 
 **This project is personal enhancement from [Cactus](https://github.com/probberechts/hexo-theme-cactus)**
 
-:cactus: [Demo](https://probberechts.github.io/hexo-theme-cactus/)
+:cactus-plus: [Demo](https://whitelok.github.io)
 
-![screenshot](https://user-images.githubusercontent.com/2175271/137625287-24a4ac77-fbc9-4c99-a4cd-90455d93d13c.png)
+<!-- ![screenshot](https://user-images.githubusercontent.com/2175271/137625287-24a4ac77-fbc9-4c99-a4cd-90455d93d13c.png) -->
 
 ## Summary
 
@@ -57,14 +57,14 @@ A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal websi
 1. In the `root` directory:
 
     ```sh
-    $ git clone https://github.com/probberechts/hexo-theme-cactus.git themes/cactus
+    $ git clone https://github.com/whitelok/hexo-theme-cactus-plus.git themes/cactus-plus
     ```
 
 2. Change the `theme` property in the `_config.yml` file.
 
     ```yml
     # theme: landscape
-    theme: cactus
+    theme: cactus-plus
     ```
    
    See below for more information on how to customize this theme.
@@ -135,7 +135,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: http://github.com/probberechts
+  projects: http://github.com/whitelok
   LINK_NAME: URL
 ```
 

@@ -15,7 +15,7 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  resume: https://www.linkedin.com/in/karl-luo-a74a4964/
+  Resume: https://www.linkedin.com/in/karl-luo-a74a4964/
   articles: /archives/
   projects: http://github.com/whitelok
 

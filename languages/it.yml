@@ -4,6 +4,7 @@ nav:
   articles: Articoli
   projects: Progetti
   search: Cerca
+  biography: Biography
 
 footer:
   copyright: Copyright
@@ -15,6 +16,7 @@ index:
   articles: Articoli
   projects: Progetti
   all_tags: Tags
+  biography: Biography
 
 post:
   desktop:

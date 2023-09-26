@@ -6,6 +6,7 @@
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
 projects_url: http://github.com/whitelok
+biography_url: https://www.linkedin.com/in/karl-luo-a74a4964/
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr

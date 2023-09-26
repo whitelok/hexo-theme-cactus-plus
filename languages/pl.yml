@@ -6,6 +6,7 @@ nav:
   category: Kategorie
   projects: Projekty
   search: Wyszukiwanie
+  biography: Biography
 
 footer:
   copyright: Prawa autorskie
@@ -18,6 +19,7 @@ index:
   projects: Projekty
   topics: Tematy
   most_recent: Najnowsze
+  biography: Biography
 
 post:
   desktop:

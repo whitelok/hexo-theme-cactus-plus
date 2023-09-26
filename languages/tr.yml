@@ -4,6 +4,7 @@ nav:
   articles: Yazılar
   projects: Projeler
   search: Ara
+  biography: Biography
 
 footer:
   copyright: Tüm Hakları Saklıdır
@@ -14,6 +15,7 @@ index:
   enum_and: ve
   articles: Yazılar
   projects: Projeler
+  biography: Biography
 
 post:
   desktop:

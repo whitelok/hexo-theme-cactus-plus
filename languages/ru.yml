@@ -4,6 +4,7 @@ nav:
   articles: Блог
   projects: Проекты
   search: Искать
+  biography: Biography
 
 footer:
   copyright: ' '
@@ -14,6 +15,7 @@ index:
   enum_and: и
   articles: Блог
   projects: Проекты
+  biography: Biography
 
 post:
   desktop:

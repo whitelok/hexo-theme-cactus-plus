@@ -6,6 +6,7 @@ nav:
   category: 分類
   projects: 項目
   search: 搜尋
+  biography: 簡介
 
 footer:
   copyright: Copyright
@@ -18,6 +19,7 @@ index:
   projects: 項目
   topics: 標題
   most_recent: 最近新增
+  biography: 簡介
 
 post:
   desktop:

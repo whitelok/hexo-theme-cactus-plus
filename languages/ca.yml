@@ -4,6 +4,7 @@ nav:
   articles: Articles
   projects: Projectes
   search: Buscar
+  biography: Biography
 
 footer:
   copyright: Copyright
@@ -14,6 +15,7 @@ index:
   enum_and: i
   articles: Articles
   projects: Projectes
+  biography: Biography
 
 post:
   desktop:

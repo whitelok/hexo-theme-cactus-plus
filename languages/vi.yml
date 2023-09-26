@@ -6,6 +6,7 @@ nav:
   category: Thể loại
   projects: Dự án
   search: Tìm kiếm
+  biography: Biography
 
 footer:
   copyright: Bản quyền
@@ -18,6 +19,7 @@ index:
   projects: Dự án
   topics: Chủ đề
   most_recent: Gần đây nhất
+  biography: Biography
 
 post:
   desktop:

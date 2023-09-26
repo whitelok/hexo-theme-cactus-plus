@@ -6,6 +6,7 @@ nav:
   category: 카테고리
   projects: 프로젝트
   search: 검색
+  biography: Biography
 
 footer:
   copyright: 저작권
@@ -18,6 +19,7 @@ index:
   projects: 프로젝트
   topics: 주제
   most_recent: 가장 최근
+  biography: Biography
 
 post:
   desktop:

@@ -6,6 +6,7 @@ nav:
   category: تصنيف
   projects: مشاريع
   search: بحث
+  biography: Biography
 
 icons:
   menu: القائمة
@@ -22,6 +23,7 @@ index:
   projects: مشاريع
   topics: مواضيع
   most_recent: المنشور مؤخراً
+  biography: Biography
 
 post:
   desktop:

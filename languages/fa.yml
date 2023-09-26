@@ -4,6 +4,7 @@ nav:
   articles: نوشته‌ها
   projects: پروژه‌ها
   search: جست‌وجو
+  biography: Biography
 
 footer:
   copyright: حق‌کپی
@@ -14,6 +15,7 @@ index:
   enum_and: و
   articles: نوشته‌ها
   projects: پروژه‌ها
+  biography: Biography
 
 post:
   desktop:

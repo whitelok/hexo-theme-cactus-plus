@@ -6,6 +6,7 @@ nav:
   category: Category
   projects: Projects
   search: Search
+  biography: Biography
 
 icons:
   menu: Menu
@@ -22,6 +23,7 @@ index:
   projects: Projects
   topics: Topics
   most_recent: Most recent
+  biography: Biography
 
 post:
   desktop:

@@ -135,7 +135,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: http://github.com/whitelok
+  projects: http://github.com/probberechts
   LINK_NAME: URL
 ```
 

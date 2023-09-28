@@ -7,6 +7,7 @@ nav:
   projects: Projects
   search: Search
   biography: Biography
+  resume: Resume
 
 icons:
   menu: Menu
@@ -24,6 +25,7 @@ index:
   topics: Topics
   most_recent: Most recent
   biography: Biography
+  resume: Resume
 
 post:
   desktop:

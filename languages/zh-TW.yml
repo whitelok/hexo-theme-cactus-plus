@@ -7,6 +7,7 @@ nav:
   projects: 項目
   search: 搜尋
   biography: 簡介
+  resume: 簡歷
 
 footer:
   copyright: Copyright
@@ -20,6 +21,7 @@ index:
   topics: 標題
   most_recent: 最近新增
   biography: 簡介
+  resume: 簡歷
 
 post:
   desktop:

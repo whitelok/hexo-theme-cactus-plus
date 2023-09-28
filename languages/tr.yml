@@ -5,6 +5,7 @@ nav:
   projects: Projeler
   search: Ara
   biography: Biography
+  resume: Resume
 
 footer:
   copyright: Tüm Hakları Saklıdır
@@ -16,6 +17,7 @@ index:
   articles: Yazılar
   projects: Projeler
   biography: Biography
+  resume: Resume
 
 post:
   desktop:

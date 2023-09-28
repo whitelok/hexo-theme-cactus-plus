@@ -5,6 +5,7 @@ nav:
   projects: Projectes
   search: Buscar
   biography: Biography
+  resume: Resume
 
 footer:
   copyright: Copyright
@@ -16,6 +17,7 @@ index:
   articles: Articles
   projects: Projectes
   biography: Biography
+  resume: Resume
 
 post:
   desktop:

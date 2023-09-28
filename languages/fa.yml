@@ -5,6 +5,7 @@ nav:
   projects: پروژه‌ها
   search: جست‌وجو
   biography: Biography
+  resume: Resume
 
 footer:
   copyright: حق‌کپی
@@ -16,6 +17,7 @@ index:
   articles: نوشته‌ها
   projects: پروژه‌ها
   biography: Biography
+  resume: Resume
 
 post:
   desktop:

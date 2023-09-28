@@ -7,6 +7,7 @@ nav:
   projects: Projekte
   search: Suche
   biography: Biography
+  resume: Resume
 
 footer:
   copyright: Copyright
@@ -20,6 +21,7 @@ index:
   topics: Themen
   most_recent: Neueste
   biography: Biography
+  resume: Resume
 
 post:
   desktop:

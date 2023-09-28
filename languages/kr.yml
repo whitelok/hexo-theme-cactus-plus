@@ -7,6 +7,7 @@ nav:
   projects: 프로젝트
   search: 검색
   biography: Biography
+  resume: Resume
 
 footer:
   copyright: 저작권
@@ -20,6 +21,7 @@ index:
   topics: 주제
   most_recent: 가장 최근
   biography: Biography
+  resume: Resume
 
 post:
   desktop:

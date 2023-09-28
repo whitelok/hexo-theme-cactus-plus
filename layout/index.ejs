@@ -42,12 +42,11 @@
           <ul class="biography-section-list">
             <% for(var sec in site.data.biography[obj].section){ %>
               <li class="biography-section-item">
-                <div><%- markdown(site.data.biography[obj].section[sec].title) %></div>
-                <div style="font-size: 12px;"><%- markdown(site.data.biography[obj].section[sec].time) %></div>
+                <div style="font-size: 12px;font-style: italic;"><%- markdown(site.data.biography[obj].section[sec].title) %></div>
+                <div style="font-size: 12px;font-style: italic;"><%- markdown(site.data.biography[obj].section[sec].time) %></div>
                 <% for(var cont_var in site.data.biography[obj].section[sec].content){ %>
                   <div style="font-size: 12px;"><%- markdown(site.data.biography[obj].section[sec].content[cont_var]) %></div>
                 <% } %>
-                <br>
               </li>
             <% } %>
           </ul>
